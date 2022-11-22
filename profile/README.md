@@ -1,6 +1,6 @@
 # 신한 유니버설 간편앱 구축 프로젝트 👋
 
-공유하고픈 자료를 `.github` 레포에 저장해 
+공유하고픈 자료를 `.github` 레포에 저장해 주세요! 
 
 **Here are some ideas to get you started:**
 
